@@ -7,7 +7,7 @@ html, body {
 
 .fixed-top.scrolled {
     box-shadow: 0 .5rem 1rem grey;
-    background-color: #fff;
+    background-color: #fff !important;
     transition: background-color 200ms linear;
 }
 
@@ -30,3 +30,8 @@ html, body {
 #cv {
     background-color: coral;
 }
+
+footer {
+    text-align: center;
+}
+
