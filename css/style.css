@@ -1,0 +1,32 @@
+html, body {
+        margin: 0;
+        padding: 0;
+        overflow-x:hidden;
+        scroll-behavior: smooth;
+    }
+
+.fixed-top.scrolled {
+    box-shadow: 0 .5rem 1rem grey;
+    background-color: #fff;
+    transition: background-color 200ms linear;
+}
+
+#about {
+    background-color: grey;
+}
+
+#work {
+    background-color: orange;
+}
+
+#skills {
+    background-color: royalblue;
+}
+
+#contact {
+    background-color: goldenrod
+}
+
+#cv {
+    background-color: coral;
+}
