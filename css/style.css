@@ -52,3 +52,13 @@ footer {
     text-align: center;
 }
 
+.paral {
+background-attachment: fixed;
+background-size: cover;
+background-position: 50% 50%;
+}
+
+.cards {
+    min-height: 50%;
+    border: 1px solid #f64f59;
+}
