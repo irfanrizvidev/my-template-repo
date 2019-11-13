@@ -1,6 +1,6 @@
 # Syed Irfan Rizvi Portfolio Website
 This project is to make a personal portfolio website to show my skills in HTML, CSS and Bootstrap framework. I am a computer programmer with excellent programming _skills in Java, JSP, PHP, Javascript, Jasmin, JQuery, CSS, Bootstrap, HTML, SQL, Python, Shell etc._
-## Sections of the website
+## Sections of the website:
 ### Qualifications
 #### Higher Diploma in Computer Science
 I have a __Higher Diplome in Computer Sceince (Level 8)__ from IT Blanchardstown, Dublin which enhanced my understanding of many disciplines in computer science including Databases, Computer languages, Web languages, Computer hardware, Operating systems, Virtual Machines etc. I passed my level 8 with a ___First Class Honours___. 
@@ -14,3 +14,38 @@ This portfolio website is one of the Milestones of the course out of 4 Milestone
 I have a degree in ___Mechanical Engineering___ from IT Tallaght, Dublin. I received an award of Excellence on completion of the degree. I passed the degree with a distinction and 3.96 overall GPA. 
 ##### Final Year project
 I scored 82% in the final year project of the Mechanical Engineering Degree.
+
+### Work
+This section of the website includes my work history. 
+
+### Skills
+This section has some of my skills as a computer programmer. 
+
+### Contact
+
+This section has a form to contact me.
+
+### Download CV
+This section allowed the users to download my CV.
+
+### Header and Footer
+The header section has NAV bar with all the links to the sections. The footer has the copyright information of the website. 
+
+## Technologies Used:
+### Javascript
+Javascript is used to change the colour of the navigation when it is scrolled down from its original position. 
+
+### CSS
+CSS is used to style the website
+
+### HTML
+HTML is used to build the  core of the website
+
+### Github / GIT / GITPOD
+Github is used to store the code. GIT is used for version control. GITPOD is used as the IDE. 
+
+## Testing 
+
+## Deployment
+
+## Credits
