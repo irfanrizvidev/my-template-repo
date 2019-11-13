@@ -45,6 +45,11 @@ font-family: 'Bitter', serif;
 
 }
 
+#work h2{
+    color: white;
+    text-decoration: underline;
+}
+
 #skills {
     background-color: royalblue;
     background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
@@ -67,6 +72,10 @@ font-family: 'Bitter', serif;
 
 footer {
     text-align: center;
+    background-color: #2ab7ca;
+    color: white;
+    padding: 0;
+    margin: 0;
 }
 
 .paral {
