@@ -55,6 +55,20 @@ Github is used to store the code. GIT is used for version control. GITPOD is use
 #### HTML Validated
 The html is validated using w3school HTML validator and the following result if found:
 ![html validation](assets/pics/github/HTMLValid.png)
+The image above shows that invalid character is used in the google fonts api link. It is normal to see this error and causes no problems. The second is a warning which is not serious.
+
+### Usability Testing
+#### Ease of use
+* The website is easy to use and distinct sections are created for different tasks. 
+* All of them have only relavent information to that section.
+* The nav bar has all the links to all the sections.
+* The sections are consistent. 
+* main menu fixed to be accessible on each section.
+
+#### Content Checking
+The content is consistent and relavent to each sections and appropriate styling is used for each section's content.
+
+
 
 ## Deployment
 
