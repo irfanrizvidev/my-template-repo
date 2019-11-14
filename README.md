@@ -1,6 +1,9 @@
 # Syed Irfan Rizvi Portfolio Website
 This project is to make a personal portfolio website to show my skills in HTML, CSS and Bootstrap framework. I am a computer programmer with excellent programming _skills in Java, JSP, PHP, Javascript, Jasmin, JQuery, CSS, Bootstrap, HTML, SQL, Python, Shell etc._
 The website is live on: [Syed Irfan Rizvi Portfolio Website](https://irfanrizvidev.github.io/portfolio/)
+
+![Multi device mockup of website](assets/pics/github/multidevice.png)
+
 ## Sections of the website:
 ### Qualifications
 #### Higher Diploma in Computer Science
@@ -69,8 +72,11 @@ The image above shows that invalid character is used in the google fonts api lin
 #### Content Checking
 The content is consistent and relavent to each sections and appropriate styling is used for each section's content.
 
-
+### Compatibility Testing
+* The website is responsive and looks great on wide variety of devices e.g. smartphones, desktop devices, laptops etc
+* The website works great on different browers e.g. Firefox, google chrome, IE
 
 ## Deployment
+The website is deployed on Github.io. It is live on the link gven above. 
 
 ## Credits
