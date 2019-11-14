@@ -84,3 +84,17 @@ The content is consistent and relavent to each sections and appropriate styling 
 The website is deployed on Github.io. It is live on the link gven above. 
 
 ## Credits
+### Content
+* The navbar was copied from Bootstrap website from templates.
+* The javascript which changes the colour of the navbar was taken from stackoverflow
+* The trick to make border around the skills was copied from https://www.w3schools.com/howto/howto_css_loader.asp
+* Work section cards were copied from https://www.developerdrive.com/responsive-landing-page-bootstrap-4/
+
+### Media
+* The images were taken from Pexels.
+* Gradients used on each section were used from https://uigradients.com/
+* Multi device mockup was created on https://techsini.com/multi-mockup/index.php
+
+### Acknowledgements
+* Munnizzah helped me to select the color scheme for website.
+* Emal helped me with testing the website on differnt viewports.
