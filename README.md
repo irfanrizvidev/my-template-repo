@@ -44,7 +44,14 @@ HTML is used to build the  core of the website
 ### Github / GIT / GITPOD
 Github is used to store the code. GIT is used for version control. GITPOD is used as the IDE. 
 
-## Testing 
+## Testing
+### Functionality Testing:
+#### All links checked
+* Nav bar links working for all the sections
+* Links of the social icons left blank on purpose
+* The main logo works fine for the homepage
+* The buttons checked to download the CV in work section
+
 
 ## Deployment
 
