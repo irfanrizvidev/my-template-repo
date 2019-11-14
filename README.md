@@ -61,6 +61,9 @@ The html is validated using w3school HTML validator and the following result if 
 ![html validation](assets/pics/github/HTMLValid.png)
 The image above shows that invalid character is used in the google fonts api link. It is normal to see this error and causes no problems. The second is a warning which is not serious.
 
+The css is validated and there are no errors on w3school css validator. The image below shows the css validation badge in my footer
+![html validation](assets/pics/github/cssValid.png)
+
 ### Usability Testing
 #### Ease of use
 * The website is easy to use and distinct sections are created for different tasks. 
