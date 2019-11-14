@@ -1,5 +1,6 @@
 # Syed Irfan Rizvi Portfolio Website
 This project is to make a personal portfolio website to show my skills in HTML, CSS and Bootstrap framework. I am a computer programmer with excellent programming _skills in Java, JSP, PHP, Javascript, Jasmin, JQuery, CSS, Bootstrap, HTML, SQL, Python, Shell etc._
+The website is live on: [Syed Irfan Rizvi Portfolio Website](https://irfanrizvidev.github.io/portfolio/)
 ## Sections of the website:
 ### Qualifications
 #### Higher Diploma in Computer Science
