@@ -52,6 +52,9 @@ Github is used to store the code. GIT is used for version control. GITPOD is use
 * The main logo works fine for the homepage
 * The buttons checked to download the CV in work section
 
+#### HTML Validated
+The html is validated using w3school HTML validator and the following result if found:
+![html validation](assets/pics/github/HTMLValid.png)
 
 ## Deployment
 
