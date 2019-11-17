@@ -5,6 +5,11 @@ The website is live on: [Syed Irfan Rizvi Portfolio Website](https://irfanrizvid
 ![Multi device mockup of website](assets/pics/github/multidevice.png)
 
 ## Sections of the website:
+![Home Page (Landing page)](assets/wireframe/home.png)
+![Work Page](assets/wireframe/work.png)
+![Skills Page](assets/wireframe/skills.png)
+![Contact Page](assets/wireframe/contact.png)
+![Download CV page and Footer](assets/wireframe/footer-CV.png)
 ### Qualifications
 #### Higher Diploma in Computer Science
 I have a __Higher Diplome in Computer Sceince (Level 8)__ from IT Blanchardstown, Dublin which enhanced my understanding of many disciplines in computer science including Databases, Computer languages, Web languages, Computer hardware, Operating systems, Virtual Machines etc. I passed my level 8 with a ___First Class Honours___. 
