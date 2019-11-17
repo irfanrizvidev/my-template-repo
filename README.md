@@ -5,10 +5,15 @@ The website is live on: [Syed Irfan Rizvi Portfolio Website](https://irfanrizvid
 ![Multi device mockup of website](assets/pics/github/multidevice.png)
 
 ## Sections of the website:
+Note: Hold Ctrl button when clicking the following links to open them in a new tab.
 [Home Page (Landing page)](assets/wireframe/home.PNG)
+
 [Work Page](assets/wireframe/work.PNG)
+
 [Skills Page](assets/wireframe/skills.PNG)
+
 [Contact Page](assets/wireframe/contact.PNG)
+
 [Download CV page and Footer](assets/wireframe/footer-CV.PNG)
 ### Qualifications
 #### Higher Diploma in Computer Science
