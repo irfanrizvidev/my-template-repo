@@ -79,7 +79,7 @@ The content is consistent and relavent to each sections and appropriate styling 
 ### Compatibility Testing
 * The website is responsive and looks great on wide variety of devices e.g. smartphones, desktop devices, laptops etc
 * The website works great on different browers e.g. Firefox, google chrome, IE
-.* my-auto to center divs vertically worked perfectly fine in all the browsers except Internet explorer. It was fixed using a custom class to vertically center divs. 
+    * my-auto to center divs vertically worked perfectly fine in all the browsers except Internet explorer. It was fixed using a custom class to vertically center divs. 
 
 ## Deployment
 The website is deployed on Github.io. It is live on the link gven above. 
