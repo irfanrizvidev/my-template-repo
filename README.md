@@ -6,6 +6,7 @@ The website is live on: [Syed Irfan Rizvi Portfolio Website](https://irfanrizvid
 
 ## Sections of the website:
 Note: Hold Ctrl button when clicking the following links to open them in a new tab.
+
 [Home Page (Landing page)](assets/wireframe/home.PNG)
 
 [Work Page](assets/wireframe/work.PNG)
