@@ -4,22 +4,19 @@ $(function () {
     $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
   });
 });
+/*
 
-// $(".nav .nav-link").on("click", function(){
-//    $(".nav").find(".active").removeClass("active");
-//    $(this).addClass("active");
-// });
+Got help from:
+https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/js/scrolling-nav.js
 
-// $(document).ready(function() {
-//   $('li.active').removeClass('active');
-//   $('a[href="' + location.pathname + '"]').closest('li').addClass('active'); 
-// });
+*/
+(function($) {
+  "use strict"; // Start of use strict
 
-$(document).ready(function() {
-    // -----------------------------------------------------------------------
-    $.each($('#navbar').find('li'), function() {
-        $(this).toggleClass('active', 
-            window.location.pathname.indexOf($(this).find('a').attr('href')) > -1);
-    }); 
-    // -----------------------------------------------------------------------
-});
+  // Activate scrollspy to add active class to navbar items on scroll
+  $('body').scrollspy({
+    target: '#mainNav',
+    offset: 56
+  });
+
+})(jQuery); // End of use strict
