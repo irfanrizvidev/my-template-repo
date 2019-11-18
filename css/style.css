@@ -1,4 +1,5 @@
 html, body {
+        height: 100%;
         margin: 0;
         padding: 0;
         overflow-x:hidden;
@@ -35,19 +36,12 @@ font-weight: 500;
     font-family: 'Lobster', cursive;
 }
 
-/* to vertically center the elements */
-.centered {
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 #about h3 {
 font-family: 'Bitter', serif;
 }
 
 #work {
+    position: relative;
     background-color: orange;
     background: -webkit-linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -60,6 +54,7 @@ font-family: 'Bitter', serif;
 }
 
 #skills {
+    position: relative;
     background-color: royalblue;
     background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -98,6 +93,28 @@ footer {
     padding-bottom: 0;
     margin-bottom: 0;
 }
+
+.active {
+    font-weight: 700;
+    color: white;
+}
+
+/* to vertically center the elements with parents having a fixed height */
+.centered {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* 
+    to vertically center the elements without parents having a fixed height
+    Media query to set absolute positioning for bigger screens or ipads etc.
+ */
+.center {
+  position: relative;
+}
+
 .paral {
 background-attachment: fixed;
 background-size: cover;
@@ -175,4 +192,14 @@ background-position: 50% 50%;
 .btn-primary {
     background-color: #2ab7ca;
     font-weight: 700;
+}
+
+@media only screen and (min-width : 767px) {
+    .center {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        width: 100%;
+        transform: translate(-50%, -50%);
+    }
 }
