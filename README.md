@@ -93,7 +93,9 @@ The content is consistent and relavent to each sections and appropriate styling 
     * my-auto class to center divs vertically worked perfectly fine in all the browsers except Internet explorer. It was fixed using a custom class to vertically center divs. 
 
 ## Deployment
-The website is deployed on Github.io. It is live on the link gven above. 
+The website is deployed on Github.io. It is live on the link given above. Github pages was used to make the project live. 
+
+Gitpod was used as an IDE to develop this project. Git was used for version control. With each commit and push, the changes could be observed on the live website which made troubleshooting easier.
 
 ## Credits
 ### Content
